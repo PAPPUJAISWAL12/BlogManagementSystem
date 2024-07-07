@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\visual studio\\BlogManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|h:\\visual studio\\blogmanagementapp\\blogmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|h:\\visual studio\\blogmanagementapp\\blogmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|h:\\visual studio\\blogmanagementapp\\blogmanagementapp\\models\\blogmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\blogmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|h:\\visual studio\\blogmanagementapp\\blogmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|h:\\visual studio\\blogmanagementapp\\blogmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|h:\\visual studio\\blogmanagementapp\\blogmanagementapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4C055D5-B2D2-4A47-8A65-E20F148E3A48}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T08:07:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogManagementSystemContext.cs",
+              "DocumentMoniker": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Models\\BlogManagementSystemContext.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\BlogManagementSystemContext.cs",
+              "ToolTip": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Models\\BlogManagementSystemContext.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\BlogManagementSystemContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:48:48.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogManagementApp\\appsettings.json",
+              "ToolTip": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\appsettings.json",
+              "RelativeToolTip": "BlogManagementApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T07:29:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Program.cs",
+              "ToolTip": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Program.cs",
+              "RelativeToolTip": "BlogManagementApp\\Program.cs",
+              "ViewState": "AQIAABIAAABAMzMzMzMbwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:28:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:16:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\visual studio\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHkAAAAAkJmZmZnpv5kAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T06:33:20.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
